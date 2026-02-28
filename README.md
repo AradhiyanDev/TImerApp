@@ -18,15 +18,11 @@ This project demonstrates state management using `setState`, Dart `Timer`, UI th
 ---
 
 ## 📸 Screenshots
+<p align="center">
+  <img src="assets/screenshots/timer_running.png" width="250"/>
+  <img src="assets/screenshots/timer_paused.png" width="250"/>
 
-### ▶ Timer Started
-![Timer Running](assets/screenshots/timer_running.png)
-
-### ⏸ Timer Paused
-![Timer Paused](assets/screenshots/timer_paused.png)
-
-### 🔄 Timer Reset
-![Timer Reset](assets/screenshots/timer_reset.png)
+</p>
 
 > Place your screenshots inside:
 > `assets/screenshots/`
