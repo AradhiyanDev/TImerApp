@@ -24,12 +24,8 @@ This project demonstrates state management using `setState`, Dart `Timer`, UI th
 
 </p>
 
-> Place your screenshots inside:
-> `assets/screenshots/`
 
-And add them in `pubspec.yaml` if needed.
 
----
 
 ## 🧠 Technical Concepts Used
 
